@@ -1,0 +1,55 @@
+*{
+  background: lightblue;
+}
+
+.text-spacing{
+  margin-left: 500px;
+  margin-right: 500px;
+}
+
+h2{
+  font-size: 30px;
+  font-family: Georgia;
+  font-weight: bold;
+}
+
+img{
+  width: 900px;
+  height: auto;
+}
+
+article p{
+  margin: 1px;
+  font-size: 21px;
+  font-family: Cambria;
+}
+
+.intro-card{
+  padding-top: 150px;
+  padding-bottom: 250px;
+  background-image: url("./montana.jpg");
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.intro-card p{
+  font-size: 35px;
+}
+
+.intro-card em{
+  font-size: 20px;
+}
+
+.opener{
+  border: 3px dashed gray;
+  padding: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom:150px;
+  text-align: left;
+}
+
+section{
+  margin-bottom: 200px;
+  text-align: center;
+}
